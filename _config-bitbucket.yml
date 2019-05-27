@@ -16,7 +16,7 @@
 title: Shintaro Katayama
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computational biology, transcriptome, gene expression and the regulation, human diseases
+  Computational biology, transcriptome, gene expression and the regulation, human diseases. This is a mirror site of https://shka.github.io .
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:   shintaro_ktym
@@ -39,7 +39,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - _bitbucket/
+  - _github/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
@@ -47,7 +47,7 @@ exclude:
 
 collections:
   github:
+    output: false
+  bitbucket:
     output: true
     permalink: :name
-  bitbucket:
-    output: false
