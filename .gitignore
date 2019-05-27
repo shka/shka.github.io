@@ -5,6 +5,5 @@ vendor
 .sass-cache
 _site
 # Ignore files generated locally
-.ruby-version
 *~
 *.bak
