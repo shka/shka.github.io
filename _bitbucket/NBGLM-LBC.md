@@ -1,4 +1,4 @@
 ---
-redirect_to: https://bitbucket.org/snippets/shka/GexekX#file-NBGLM-LBC.org
+redirect_to: https://bitbucket.org/snippets/shka/GexekX#file-NBGLM-LBC.md
 permalink: NBGLM-LBC
 ---
